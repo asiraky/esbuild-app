@@ -1,0 +1,13 @@
+{
+  "name": "@pxmo/ui",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "build": "node build.js",
+    "tsc": "tsc"
+  },
+  "main": "dist",
+  "typings": "dist/index.d.ts",
+  "author": "",
+  "license": "ISC"
+}

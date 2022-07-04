@@ -1,0 +1,21 @@
+{
+  "compilerOptions": {
+      "target": "esnext",
+      "lib": ["dom", "esnext"],
+      "allowJs": false,
+      "declaration": true,
+      "sourceMap": true,
+      "importHelpers": true,
+      "alwaysStrict": true,
+      "skipLibCheck": true,
+      "strict": true,
+      "forceConsistentCasingInFileNames": true,
+      "esModuleInterop": true,
+      "module": "esnext",
+      "moduleResolution": "node",
+      "incremental": true,
+      "baseUrl": "./",
+      "jsx": "react-jsx"
+  },
+  "exclude": ["**/node_modules", "**/dist", "**/test"]
+}
